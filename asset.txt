@@ -1,0 +1,4 @@
+Nama: Hasan 
+NIM: 2407431018
+Kelas: TMD 4A 	
+Mata Kuliah: Pemrograman Game 2D
